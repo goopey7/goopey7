@@ -39,5 +39,9 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     "Nice tab bar
     Plug 'kyazdani42/nvim-web-devicons'
     Plug 'romgrk/barbar.nvim'
-
+	"Cmake integration
+	Plug 'cdelledonne/vim-cmake'
+	"Auto define cpp
+	Plug 'tenfyzhong/vim-gencode-cpp'
+	Plug 'vim-scripts/a.vim'
     call plug#end()
