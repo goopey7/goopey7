@@ -16,6 +16,9 @@ on:
           description: 'Test scenario tags'
           required: false
           type: boolean
+        environment:
+          type: environment
+          description: Select the enviornment
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
     - cron: "1 0 * * *"
@@ -24,6 +27,8 @@ jobs:
   update-readme:
     name: Update the WakaTime Stat
     runs-on: ubuntu-latest
+    environment:
+      name: ${{ inputs.environment }}
     steps:
       # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
       # Do not change the line below until you have forked this repository
