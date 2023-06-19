@@ -14,5 +14,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goopey7&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="goopey7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goopey7&show_icons=true&locale=en&theme=gruvbox" alt="goopey7" /></p>
