@@ -3,7 +3,7 @@
 
 - Currently working on [Rainyday](https://rainyday.deals)
 
-- I’m currently learning **Vulkan and Yew.rs**
+- I’m currently learning **Vulkan and Rust**
 
 - Feel free to email me at **samcollier916@gmail.com**
 
