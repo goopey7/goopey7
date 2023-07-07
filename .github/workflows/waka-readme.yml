@@ -13,7 +13,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-		  SHOW_TITLE: true
+          SHOW_TITLE: true
           BLOCKS: ->
           TIME_RANGE: all_time
           SHOW_TIME: true
@@ -23,3 +23,4 @@ jobs:
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
           #REPOSITORY: <gh_username/gh_username>
+
