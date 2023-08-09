@@ -1,7 +1,7 @@
 <h1 align="center">Sam Collier</h1>
 <h3 align="center">A super passionate game developer and entrepreneur</h3>
 
-- Currently working on [Rainyday](https://rainyday.deals)
+- Currently working on [Allowance](https://allowance.fund) and [Rainyday](https://rainyday.deals)
 
 - I’m currently learning **Vulkan and Rust**
 
