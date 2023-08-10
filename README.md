@@ -3,7 +3,7 @@
 
 - Currently working on [**Allowance**](https://allowance.fund) and [**Rainyday**](https://rainyday.deals)
 
-- I’m currently learning [**Vulkan and Rust**](https://github.com/goopey7/vulkan-ash-tutorial)
+- I’m currently learning [**Vulkan and Rust**](https://github.com/goopey7/vulkan-engine)
 
 - Feel free to email me at **samcollier916@gmail.com**
 
