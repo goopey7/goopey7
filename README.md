@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2023 - To: 08 September 2023
+From: 18 June 2023 - To: 09 September 2023
 
-Total Time: 272 hrs 49 mins
+Total Time: 273 hrs 3 mins
 
-Rust             181 hrs 41 mins >>>>>>>>>>>>>>>>>--------   66.60 %
-Dart             60 hrs 30 mins  >>>>>>-------------------   22.18 %
+Rust             181 hrs 55 mins >>>>>>>>>>>>>>>>>--------   66.63 %
+Dart             60 hrs 30 mins  >>>>>>-------------------   22.16 %
 TOML             5 hrs 2 mins    -------------------------   01.85 %
 Lua              4 hrs 44 mins   -------------------------   01.74 %
 YAML             3 hrs 43 mins   -------------------------   01.37 %
@@ -33,7 +33,7 @@ GLSL             2 hrs 37 mins   -------------------------   00.96 %
 Bash             2 hrs 16 mins   -------------------------   00.83 %
 JSON             2 hrs 14 mins   -------------------------   00.82 %
 Ezhil            1 hr 30 mins    -------------------------   00.55 %
-HTML             1 hr 24 mins    -------------------------   00.52 %
+HTML             1 hr 24 mins    -------------------------   00.51 %
 ```
 
 <!--END_SECTION:waka-->
