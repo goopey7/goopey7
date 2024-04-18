@@ -51,20 +51,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2023 - To: 15 April 2024
+From: 18 June 2023 - To: 16 April 2024
 
-Total Time: 692 hrs 50 mins
+Total Time: 694 hrs 26 mins
 
-C++              280 hrs 41 mins >>>>>>>>>>---------------   40.51 %
-Rust             220 hrs 9 mins  >>>>>>>>-----------------   31.78 %
-Dart             63 hrs 50 mins  >>-----------------------   09.21 %
-CMake            15 hrs 48 mins  >------------------------   02.28 %
+C++              281 hrs 2 mins  >>>>>>>>>>---------------   40.47 %
+Rust             220 hrs 9 mins  >>>>>>>>-----------------   31.70 %
+Dart             63 hrs 50 mins  >>-----------------------   09.19 %
+CMake            16 hrs 7 mins   >------------------------   02.32 %
 Lua              14 hrs 8 mins   >------------------------   02.04 %
 Bash             11 hrs 17 mins  -------------------------   01.63 %
-JavaScript       10 hrs 35 mins  -------------------------   01.53 %
+JavaScript       10 hrs 35 mins  -------------------------   01.52 %
 TypeScript       10 hrs 15 mins  -------------------------   01.48 %
+JSON             8 hrs 39 mins   -------------------------   01.25 %
 YAML             8 hrs 27 mins   -------------------------   01.22 %
-JSON             7 hrs 59 mins   -------------------------   01.15 %
 ```
 
 <!--END_SECTION:waka-->
