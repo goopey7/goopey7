@@ -51,11 +51,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2023 - To: 01 August 2024
+From: 18 June 2023 - To: 02 August 2024
 
-Total Time: 792 hrs 36 mins
+Total Time: 792 hrs 39 mins
 
-C++                       348 hrs 16 mins >>>>>>>>>>>--------------   43.94 %
+C++                       348 hrs 19 mins >>>>>>>>>>>--------------   43.94 %
 Rust                      221 hrs 20 mins >>>>>>>------------------   27.92 %
 Dart                      63 hrs 50 mins  >>-----------------------   08.05 %
 CMake                     25 hrs 40 mins  >------------------------   03.24 %
